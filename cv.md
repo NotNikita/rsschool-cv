@@ -2,9 +2,9 @@ Yaskevich Nikita
 ============
 
 -------------------     ----------------------------
-Minsk, Minskaya Oblast, Belarus, 20034• nikitabsuir@gmail.com
-LinkedIn                          https://www.linkedin.com/in/nikita-yaskevich-976a9a192/
-GitHub                           https://github.com/NotNikita
+Email                        nikitabsuir@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nikita-yaskevich-976a9a192/)
+[GitHub](https://github.com/NotNikita)
 -------------------     ----------------------------
 
 Frontend Developer
@@ -12,14 +12,15 @@ Frontend Developer
 
 Recent Projects
 
-Pizza Constructor:
-Site allows you to create your own pizza, add some drinks and and calculate total cost.
-Html CSS Js
+Pizza Constructor
+:   Site allows you to create your own pizza, add some drinks and and calculate total cost.
+    Html CSS Js
 
-Dynasty Comics: Full-Stack application for managing personal collections.
-ASP.NET Core, Entity Framework, SignalR
-JS , HTML, CSS
-Tag search, Localization, Dark Theme
+Dynasty Comics
+:   Full-Stack application for managing personal collections.
+    - ASP.NET Core, Entity Framework, SignalR
+    - JS , HTML, CSS
+    - Tag search, Localization, Dark Theme
 	
 
 SKILLS
