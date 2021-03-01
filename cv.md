@@ -12,15 +12,24 @@ Frontend Developer
 
 Recent Projects
 
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
+
 Pizza Constructor
 :   Site allows you to create your own pizza, add some drinks and and calculate total cost.
     Html CSS Js
 
 Dynasty Comics
 :   Full-Stack application for managing personal collections.
-    - ASP.NET Core, Entity Framework, SignalR
-    - JS , HTML, CSS
-    - Tag search, Localization, Dark Theme
+ASP.NET Core, Entity Framework, SignalR
+JS , HTML, CSS
+Tag search, Localization, Dark Theme
 	
 
 SKILLS
