@@ -5,7 +5,6 @@ Yaskevich Nikita
 Email                        nikitabsuir@gmail.com
 [LinkedIn](https://www.linkedin.com/in/nikita-yaskevich-976a9a192/)
 [GitHub](https://github.com/NotNikita)
--------------------     ----------------------------
 
 # Frontend Developer
 
@@ -34,19 +33,20 @@ Tag search, Localization, Dark Theme
 - Also familiar with: C#, C++, Java, Python
 
 
-Languages
+## Languages
 
 English: B2
 Russian: Native
 
-EDUCATION
+## EDUCATION
 Informatics, Engineer System Programmer (Sep. 2018 - Jun. 2022)
 Belarusian State University of Informatics, Minsk, Belarus
 
 
-Courses Completed
-.NET   iTransition(Dec. 2020 - Jan. 2021)
+## Courses Completed
+### .NET   iTransition(Dec. 2020 - Jan. 2021)
 By the end of the courses developed a complete site with registration/authentication, full-text search and SignalR comments.
 
+### C# EPAM (Nov. 2020 - Dec. 2020)
 
-C# EPAM (Nov. 2020 - Dec. 2020)
+### RsSchool (Mar. 2021 ->)
