@@ -6,6 +6,8 @@ Email                        nikitabsuir@gmail.com
 [LinkedIn](https://www.linkedin.com/in/nikita-yaskevich-976a9a192/)
 [GitHub](https://github.com/NotNikita)
 
+-------------------     ----------------------------
+
 # Frontend Developer
 
 
